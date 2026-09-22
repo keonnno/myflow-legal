@@ -1,0 +1,6 @@
+title: MyFlow 법률 문서
+description: Flow Labs가 제공하는 MyFlow 앱의 개인정보처리방침과 서비스 이용약관
+theme: jekyll-theme-cayman
+lang: ko
+exclude:
+  - README.md
